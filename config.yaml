@@ -4,7 +4,7 @@ Web:
   PyWebIO_Enable: true    # Enable APP | 启用APP
 
   # APP Information
-  Domain: https://douyin.wtf    # Web domain | Web域名
+  Domain: https://douyinapi.iamwei.com    # Web domain | Web域名
 
   # APP Configuration
   PyWebIO_Theme: minty    # PyWebIO theme | PyWebIO主题
@@ -17,7 +17,7 @@ Web:
   Favicon: https://raw.githubusercontent.com/Evil0ctal/Douyin_TikTok_Download_API/main/logo/logo192.png    # Web favicon | Web图标
 
   # Fun Configuration
-  Easter_Egg: true    # Enable Easter Egg | 启用彩蛋
+  Easter_Egg: false    # Enable Easter Egg | 启用彩蛋
   Live2D_Enable: true
   Live2D_JS: https://fastly.jsdelivr.net/gh/TikHubIO/TikHub_live2d@latest/autoload.js
 

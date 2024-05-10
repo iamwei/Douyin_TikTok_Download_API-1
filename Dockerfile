@@ -7,7 +7,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 
 # Update the package list and install Python and pip
 RUN apt-get update && apt-get install -y --no-install-recommends \
-    python3.11 \
+    python3.11 curl netcat \
     python3-pip \
     python3.11-dev \
     && apt-get clean \
